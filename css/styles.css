@@ -7,7 +7,7 @@ body{
 h1{
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
-  color:  #66BFBF;
+  color:  #000000;
 }
 h2{
   color: rgb(10, 120, 134) ;
@@ -17,7 +17,7 @@ h2{
 h4{
   font-family: 'IBM Plex Mono', monospace;
   font-size: 2.5rem;
-  color:  #66BFBF;
+  color:  #000000;
 }
 #pro{
   text-decoration: underline;
@@ -79,7 +79,7 @@ p{
 }
  
 #top{
-background-color: #52b0db;
+background-color: #75b7d6;
 height: 590px;
 margin: 0px;
 }
